@@ -1,0 +1,17 @@
+{
+  "name": "davidladukerocks",
+  "version": "1.0.0",
+  "description": "David LaDuke Official Website",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon LaDuke",
+  "license": "ISC"
+}
